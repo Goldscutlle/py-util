@@ -1,0 +1,209 @@
+List of installed & usable Python modules on siteground server
+! required, * useful, ? interesting
+
+stat
+__future__
+__phello__.foo
+_LWPCookieJar
+_MozillaCookieJar
+_strptime
+_threading_local
+aifc
+anydbm !
+asynchat
+asyncore
+atexit
+audiodev
+base64
+BaseHTTPServer
+Bastion
+bdb
+binhex * 
+bisect ?
+calendar
+cgi !
+CGIHTTPServer
+cgitb * 
+chunk * - http://stackoverflow.com/questions/312443/how-do-you-split-a-list-into-evenly-sized-chunks-in-python
+cmd
+code * 
+codecs
+codeop
+colorsys
+commands
+compileall
+ConfigParser
+Cookie !
+cookielib !
+copy
+copy_reg
+csv
+dbhash
+decimal
+difflib
+dircache
+dis
+doctest
+DocXMLRPCServer
+dumbdbm
+dummy_thread
+dummy_threading
+filecmp
+fileinput
+fnmatch
+formatter *
+fpformat
+ftplib *
+getopt
+getpass
+gettext
+glob
+gopherlib
+gzip
+heapq
+hmac
+htmlentitydefs *
+htmllib *
+HTMLParser *
+httplib *
+ihooks
+imaplib *
+imghdr *
+imputil 
+inspect *
+keyword 
+linecache 
+locale 
+macpath 
+macurl2path
+mailbox
+mailcap
+markupbase
+Matrix ? site-packages
+mhlib
+mimetools
+mimetypes
+MimeWriter
+mimify
+modulefinder
+multifile
+mutex
+netrc
+new
+nntplib
+ntpath
+nturl2path
+Numeric *  site-packages
+opcode
+optik
+optparse
+os !
+os2emxpath
+pdb
+pickle
+pickletools
+pipes
+pkgutil
+platform
+popen2
+poplib
+posixfile
+posixpath
+pprint
+profile
+pstats
+pty
+py_compile
+pyclbr
+pydoc
+Queue
+quopri
+random *
+re !
+reconvert
+regex_syntax
+regsub
+repr
+rexec
+rfc822
+rlcompleter
+robotparser
+sched * event scheduler
+sets
+sgmllib
+shelve
+shlex
+shutil
+SimpleHTTPServer
+SimpleXMLRPCServer
+site ?
+smtpd
+smtplib *
+sndhdr
+socket
+SocketServer
+sqlite * - site-packages
+sre
+sre_compile
+sre_constants
+sre_parse
+statcache
+statvfs
+string
+StringIO
+stringold
+stringprep
+subprocess
+sunau
+sunaudio
+symbol
+symtable
+tabnanny
+tarfile
+telnetlib
+tempfile
+textwrap
+this
+threading
+timeit *
+toaiff
+token
+tokenize
+trace
+traceback
+tty
+types
+tzparse
+unittest
+urllib
+urllib2
+urlparse
+user ?
+UserArray ? site-packages
+UserDict
+UserList
+UserString
+uu
+warnings
+wave
+weakref
+webbrowser ?
+whichdb
+whrandom
+xdrlib
+xml.parsers.expat
+xml.sax.expatreader
+xml.sax._exceptions
+xml.sax.saxutils
+xml.sax.xmlreader
+xml.sax.handler
+xml.dom.minidom
+xml.dom.minicompat
+xml.dom.expatbuilder
+xml.dom.pulldom
+xml.dom.NodeFilter
+xml.dom.xmlbuilder
+xml.dom.domreg
+xmllib
+xmlrpclib
+zipfile
